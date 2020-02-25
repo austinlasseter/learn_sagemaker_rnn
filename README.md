@@ -6,3 +6,4 @@ A collection of resources for learning to train and deploy RNN models with AWS S
 * https://github.com/awslabs/amazon-sagemaker-examples
 * https://aws.amazon.com/getting-started/tutorials/build-train-deploy-machine-learning-model-sagemaker/
 * https://github.com/aws-samples/amazon-sagemaker-stock-prediction/blob/master/notebooks/dbg-custom-rnn.ipynb
+* https://machinelearningmastery.com/sequence-classification-lstm-recurrent-neural-networks-python-keras/
