@@ -8,6 +8,7 @@ A collection of resources for learning to train and deploy RNN models with AWS S
 * https://github.com/aws-samples/amazon-sagemaker-stock-prediction/blob/master/notebooks/dbg-custom-rnn.ipynb
 
 Jason Brownlee
+* https://machinelearningmastery.com/models-sequence-prediction-recurrent-neural-networks/
 * https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
 * https://machinelearningmastery.com/predict-sentiment-movie-reviews-using-deep-learning/
 * https://machinelearningmastery.com/sequence-classification-lstm-recurrent-neural-networks-python-keras/
