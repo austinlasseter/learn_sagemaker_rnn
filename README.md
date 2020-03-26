@@ -27,3 +27,6 @@ Jason Brownlee
 * https://machinelearningmastery.com/sequence-classification-lstm-recurrent-neural-networks-python-keras/
 * https://machinelearningmastery.com/understanding-stateful-lstm-recurrent-neural-networks-python-keras/
 * https://machinelearningmastery.com/category/lstm/
+
+Brownlee's full NLP crash course:
+* https://machinelearningmastery.com/crash-course-deep-learning-natural-language-processing/
