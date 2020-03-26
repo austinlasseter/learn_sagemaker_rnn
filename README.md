@@ -8,6 +8,7 @@ Getting started with BlazingText
 * https://aws.amazon.com/blogs/startups/how-to-build-machine-learning-on-aws/?nc1=b_rp
 
 Exposing a deployed SageMaker endpoint using rest API
+* https://docs.aws.amazon.com/sagemaker/latest/APIReference/API_runtime_InvokeEndpoint.html
 * https://aws.amazon.com/blogs/machine-learning/creating-a-machine-learning-powered-rest-api-with-amazon-api-gateway-mapping-templates-and-amazon-sagemaker/?nc1=b_rp
 * https://aws.amazon.com/blogs/machine-learning/load-test-and-optimize-an-amazon-sagemaker-endpoint-using-automatic-scaling/
 
