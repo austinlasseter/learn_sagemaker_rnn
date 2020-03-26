@@ -3,7 +3,12 @@
 Getting started with BlazingText
 * https://github.com/awslabs/amazon-sagemaker-examples/blob/master/introduction_to_amazon_algorithms/blazingtext_text_classification_dbpedia/blazingtext_text_classification_dbpedia.ipynb
 * https://github.com/awslabs/amazon-sagemaker-examples/blob/master/introduction_to_amazon_algorithms/blazingtext_word2vec_text8/blazingtext_word2vec_text8.ipynb
+* https://towardsdatascience.com/introducing-amazon-sagemaker-8061d0fc476d
+* https://www.youtube.com/watch?v=KFuc2KWrTHs&list=PLhr1KZpdzukcOr_6j_zmSrvYnLUtgqsZz&index=5
 
+Exposing a deployed SageMaker endpoint using rest API
+* https://aws.amazon.com/blogs/machine-learning/creating-a-machine-learning-powered-rest-api-with-amazon-api-gateway-mapping-templates-and-amazon-sagemaker/?nc1=b_rp
+* https://aws.amazon.com/blogs/machine-learning/load-test-and-optimize-an-amazon-sagemaker-endpoint-using-automatic-scaling/
 
 A collection of resources for learning to train and deploy RNN models with AWS SageMaker
 
