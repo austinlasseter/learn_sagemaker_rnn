@@ -1,4 +1,10 @@
 # Learn SageMaker RNN
+
+Getting started with BlazingText
+* https://github.com/awslabs/amazon-sagemaker-examples/blob/master/introduction_to_amazon_algorithms/blazingtext_text_classification_dbpedia/blazingtext_text_classification_dbpedia.ipynb
+* https://github.com/awslabs/amazon-sagemaker-examples/blob/master/introduction_to_amazon_algorithms/blazingtext_word2vec_text8/blazingtext_word2vec_text8.ipynb
+
+
 A collection of resources for learning to train and deploy RNN models with AWS SageMaker
 
 * https://towardsdatascience.com/multi-class-text-classification-with-lstm-1590bee1bd17
