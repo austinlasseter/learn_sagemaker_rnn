@@ -5,6 +5,7 @@ Getting started with BlazingText
 * https://github.com/awslabs/amazon-sagemaker-examples/blob/master/introduction_to_amazon_algorithms/blazingtext_word2vec_text8/blazingtext_word2vec_text8.ipynb
 * https://towardsdatascience.com/introducing-amazon-sagemaker-8061d0fc476d
 * https://www.youtube.com/watch?v=KFuc2KWrTHs&list=PLhr1KZpdzukcOr_6j_zmSrvYnLUtgqsZz&index=5
+* https://aws.amazon.com/blogs/startups/how-to-build-machine-learning-on-aws/?nc1=b_rp
 
 Exposing a deployed SageMaker endpoint using rest API
 * https://aws.amazon.com/blogs/machine-learning/creating-a-machine-learning-powered-rest-api-with-amazon-api-gateway-mapping-templates-and-amazon-sagemaker/?nc1=b_rp
